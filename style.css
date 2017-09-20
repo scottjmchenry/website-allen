@@ -1,0 +1,36 @@
+h1{ font-family:"Times New Roman",serif;
+font-size:24pt;
+text-align:center;
+
+}
+
+p{ font-family:"Comic Sans MS",serif;
+font-size:14pt;
+text-align:justify;
+}
+
+#list-heading{ font-family:"Times New Roman",serif;
+font-size:14pt;
+text-align:left;
+text-decoration:underline;}
+
+
+ul{ font-family:"Comic Sans MS",serif;
+font-size:14pt;
+text-align:left;
+}
+
+a{ font-family:"Comic Sans MS",serif;
+font-size:14pt;
+text-align:left;
+text-decoration:none;
+
+}
+
+ol{
+	
+}
+
+
+
+
